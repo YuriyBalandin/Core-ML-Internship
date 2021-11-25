@@ -1,3 +1,3 @@
-# Core-ML-Internship
-Выполненное тестовое задание для отбора на стажировку в команду Core ML.
-Выпонено в формате Jupyter Notebook с использованием kaggle kernel. 
+# Recommender system based on movielens datatset
+
+Different approaches are used and tested in educational purpose.
